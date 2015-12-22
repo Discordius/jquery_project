@@ -1,0 +1,24 @@
+div > div {
+	float: left;
+	width: 10px;
+	height: 10px;
+	background-color: black;
+	border: none;
+}
+
+div {
+	margin-top: 0px;
+	padding: 0px;
+}
+
+#id {
+	background-color: transparent;
+}
+
+form {
+	background-color: transparent;
+}
+
+.colored {
+	background-color: red;
+}
